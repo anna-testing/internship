@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+.codex-finalizer/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
